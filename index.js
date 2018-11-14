@@ -21,7 +21,6 @@ module.exports = function getMiddleware(options) {
   let setHeaderFor = function(ctx, header) {
     let headerValue = options[header];
     if (headerValue) {
-      console.log('SET', header, headerValue);
       ctx.set(header, headerValue);
     } else {
       ctx.remove(header);
