@@ -1,0 +1,21 @@
+{
+  "name": "@emartech/koa-ui-security-middleware",
+  "version": "0.0.1",
+  "engines": {
+    "node": "10.13.0",
+    "npm": "6.4.1"
+  },
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emartech/koa-ui-security-middleware.git"
+  },
+  "author": "Emarsys",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emartech/koa-ui-security-middleware/issues"
+  },
+  "homepage": "https://github.com/emartech/koa-ui-security-middleware"
+}
